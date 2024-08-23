@@ -1,6 +1,6 @@
 # Python
 Python Language Guide: From Scratch to Advanced 
-Python Language Guide: From Scratch to Advanced
+
 Welcome to the Python Language Guide repository! This comprehensive guide is designed to take you from the very basics of Python programming to advanced concepts, offering a structured and practical learning path for developers of all levels.
 
 📚 What You'll Find Here
